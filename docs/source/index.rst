@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+BapRangTV - baprang-tv.com - Trải Nghiệm Xem Bóng Đá Trực Tuyến Đỉnh Cao Không Gián Đoạn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`BapRangTV <https://baprang-tv.com/>`_ là điểm đến hàng đầu cho những người yêu thích bóng đá trực tuyến, mang đến cơ hội theo dõi hàng ngàn trận trực tiếp bóng đá của những giải đấu trên toàn thế giới. Tại đây, khán giả có thể thưởng thức các trận đấu qua link xem trực tiếp bóng đá không bị chặn, cùng với bình luận viên và MC tiếng Việt bình luận chuyên nghiệp, tạo nên không khí sôi động và chân thực. Đặc biệt, Baprangtv.com cam kết không có banner hay quảng cáo, giúp người xem tận hưởng trọn vẹn từng phút giây của trận đấu mà không bị gián đoạn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 235/55 Huỳnh Châu Sổ Phường 6, Tân An, Long An
 
-   This project is under active development.
+Phone: 0367624526
 
-Contents
---------
+Email: baprangt@gmail.com. 
 
-.. toctree::
+Website: https://baprang-tv.com/
 
-   usage
-   api
+#baprangtv #tructiepbongda #bongda24h #lichthidaubongda #linkbaprangtv #linkxembongda
